@@ -1,0 +1,10 @@
+Ticket sales platform by uploading images of your qr code ticket 
+
+
+
+User can filter by the lowest price
+QR codes are scanned to ensure they have not been listed already and are valid
+QR code is only given once money is processed
+Only lets you sign up University Email address using .ac.uk email, puts you into a specific lobby based on what email 
+Account is rated with stars based on interaction- only one university address so scamming is less favourable
+When listing the ticket you can see the market price and the historical price
