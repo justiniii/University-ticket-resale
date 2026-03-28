@@ -5,6 +5,11 @@ Ticket sales platform by uploading images of your qr code ticket
 User can filter by the lowest price
 QR codes are scanned to ensure they have not been listed already and are valid
 QR code is only given once money is processed
-Only lets you sign up University Email address using .ac.uk email, puts you into a specific lobby based on what email 
+Only lets you sign up University Email address using .ac.uk email, puts you into a specific lobby based on what email - but you can still go into other lobbys but its a drop down and it shows next to your profile what uni you go to when listing
 Account is rated with stars based on interaction- only one university address so scamming is less favourable
 When listing the ticket you can see the market price and the historical price
+safety and encryption of sorts
+
+optional but nice:
+find a way to fetch upcoming events from fixer/fatsoma so events can be catagorised
+events like loca happen every week on a thursday so will be able to create listing catagories. 
